@@ -1,0 +1,12 @@
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.AssemblyInfoInputs.cache
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.AssemblyInfo.cs
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.exe
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.deps.json
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.runtimeconfig.json
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.runtimeconfig.dev.json
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.dll
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.pdb
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.dll
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.pdb
+C:\Users\ana.glislere\source\repos\ByteBank\07=ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.genruntimeconfig.cache

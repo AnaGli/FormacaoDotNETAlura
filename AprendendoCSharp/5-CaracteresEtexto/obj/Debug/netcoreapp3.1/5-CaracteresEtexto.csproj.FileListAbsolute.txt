@@ -1,0 +1,13 @@
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\bin\Debug\netcoreapp3.1\5-CaracteresEtexto.exe
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\bin\Debug\netcoreapp3.1\5-CaracteresEtexto.deps.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\bin\Debug\netcoreapp3.1\5-CaracteresEtexto.runtimeconfig.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\bin\Debug\netcoreapp3.1\5-CaracteresEtexto.runtimeconfig.dev.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\bin\Debug\netcoreapp3.1\5-CaracteresEtexto.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\bin\Debug\netcoreapp3.1\5-CaracteresEtexto.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.AssemblyInfoInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.AssemblyInfo.cs
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.csproj.CoreCompileInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.genruntimeconfig.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\5-CaracteresEtexto\obj\Debug\netcoreapp3.1\5-CaracteresEtexto.csprojAssemblyReference.cache

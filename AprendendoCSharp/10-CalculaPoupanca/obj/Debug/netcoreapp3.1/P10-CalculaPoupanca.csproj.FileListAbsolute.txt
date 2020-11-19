@@ -1,0 +1,12 @@
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.exe
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.deps.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.genruntimeconfig.cache

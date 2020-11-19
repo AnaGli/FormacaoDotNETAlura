@@ -1,0 +1,13 @@
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.exe
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.deps.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.runtimeconfig.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.runtimeconfig.dev.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\bin\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.csprojAssemblyReference.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.AssemblyInfoInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.AssemblyInfo.cs
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\3-CriandoVariaveisPontoFlutuantes\obj\Debug\netcoreapp3.1\3-CriandoVariaveisPontoFlutuantes.genruntimeconfig.cache

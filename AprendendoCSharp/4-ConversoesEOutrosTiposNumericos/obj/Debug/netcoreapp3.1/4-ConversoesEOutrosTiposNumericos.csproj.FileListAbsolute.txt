@@ -1,0 +1,13 @@
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.deps.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.dll
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.genruntimeconfig.cache
+C:\Users\ana.glislere\source\repos\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.1\4-ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
